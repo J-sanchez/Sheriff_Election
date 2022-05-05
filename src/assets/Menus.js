@@ -14,8 +14,8 @@ export const CITY  = [
     { name: "", link: "#" },
   ];
   export const VOTE = [
-    { name: "Documentation", link: "#" },
-    { name: "Tutorials & guides", link: "#" },
-    { name: "Webinars", link: "#" },
-    { name: "Open-source", link: "#" },
+    { name: "EARLY VOTING STARTS MAY 10th"},
+    { name: "VOTE THROUGH JUNE 7th",},
+    { name: "VISIT TO LEARN HOW TO VOTE", link: "http://www.rio-arriba.org/departments_and_divisions/clerk's_office/clerk_.html" },
+    { name: "COME OUT AND VOTE!!",},
   ];

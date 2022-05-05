@@ -6,10 +6,10 @@ import badge from '../assets/images/Badge.png';
 import headshot from '../assets/images/RE_Headshot.png'
 
 const navigation = [
-  { name: 'Dashboard', href: '#', current: true },
-  { name: 'Team', href: '#', current: false },
-  { name: 'Community OutReach', href: '#', current: false },
-  { name: 'Community Events', href: '#', current: false },
+    { name: 'Dashboard', href: '#', current: true },
+    { name: 'VOTE FOR BILLY A. MERRIFIELD', href: 'https://www.facebook.com/people/Billy-A-Merrifield/100078057205329/?_rdr', current: false },
+  { name: 'TEAM', href: 'https://www.facebook.com/Rio-Arriba-Sheriffs-Office-114646657800830', current: false},
+  { name: 'COMMUNITY OUTREACH', href: 'http://www.rio-arriba.org/departments_and_divisions/sheriff.html', current: false },
 ]
 
 function classNames(...classes) {
@@ -66,13 +66,6 @@ export default function Navbar() {
                 </div>
               </div>
               <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
-                <button
-                  type="button"
-                  className="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
-                >
-                  <span className="sr-only">View notifications</span>
-                  <BellIcon className="h-6 w-6" aria-hidden="true" />
-                </button>
 
                 {/* Profile dropdown */}
                 <Menu as="div" className="ml-3 relative">

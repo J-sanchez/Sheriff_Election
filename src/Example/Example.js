@@ -40,7 +40,7 @@ support, to keep me as your next Rio Arriba
                             
 BillyA.Merrifield4RACSheriff2022
                     </h2>
-                    <p className='mb-2 text-2xl text-center uppercase'>   <span> Elections belong to the people.</span> </p>
+                    <p className='mb-2 text-2xl text-center uppercase'>   <span> Elections belong to the people!</span> </p>
                 </div>
                 </div>
                 </div>
